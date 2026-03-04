@@ -59,7 +59,7 @@ A full-stack web application for managing pet adoptions, tracking vaccinations, 
 ### 1. Clone the Repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/ahiwalevikrant/pet-adoption-tracker
 cd pet-adoption-tracker
 ```
 
@@ -253,13 +253,10 @@ VITE_API_BASE_URL=http://localhost:8080/api
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## 👨‍💻 Authors
 
-- Your Name - Initial work
+- Vikrant Ahiwale - Initial work
 
 ## 🙏 Acknowledgments
 
